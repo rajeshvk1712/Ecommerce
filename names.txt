@@ -1,0 +1,6 @@
+im making changes to names.txt for testing
+:x
+:xq.
+
+making changes via terminal and vi editor
+
